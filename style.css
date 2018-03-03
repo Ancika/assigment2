@@ -1,0 +1,158 @@
+.container{ 
+width: 100%;
+ height: auto; }
+
+.navbar{width: 100%;
+ height: 60px; 
+ background-color: #bbb; 
+ margin-top: -5px
+}
+.navbar ul{
+	margin-left: 1000px;
+}
+.navbar ul li{
+ display: inline;
+ line-height: 60px;
+ padding: 10px;	}
+
+.navbar ul li a{
+ text-decoration: none;
+ font-family: sans-serif;
+ color: #009;}
+
+.navbar ul li a:hover{
+		color: #fff}
+
+
+/* BAGAIN HEADER*/
+.header { 
+	width:110%;
+	height:300px;
+    background-image: url(img/computer.jpeg);  
+}	
+
+
+.header img{
+	width: 150px;
+	height: 150px;
+	margin-left: 650px;
+	margin-top: 15px;
+}
+
+.header h1{
+	font-family: sans-serif;
+	text-align: center;
+	color: violet;
+	font-weight: 600px;
+
+}
+
+.header h4 {
+	font-family: monospace;
+	text-align: center;
+	color: white;
+
+}
+/*BAGAIN CONTENT*/
+
+.content{
+	width: 100%;
+	height: 400px;
+	background-color: #f5f5dc;
+}
+
+.gambar {
+	width: 1000px;
+	height: 700px;
+}
+
+.gambar img{
+	width: 230px;
+    height: 200px;
+    margin-left: 100px;
+
+
+}
+
+/*BAGAIN ABOUT*/
+.about {
+	width: 100%
+	height: 400px;
+	background-color: #ff99ff;
+}
+.about h1 {
+	font-family: fantasy;
+	color: inherit;
+	text-align: center;
+}
+.about hr {
+	width: 200px;
+	border-color: #4d004d; 
+}
+.isabout {
+	width: 800px;
+	height: 300px;
+	margin: auto;
+}
+.isabout p {
+	font-family: fantasy;
+	text-align: justify;
+}
+/*BAGAIN CONTACT*/
+.contact {
+	width: 100%;
+	height: 700px;
+	background-color: #ebadeb;
+}
+.contact h1 {
+	font-family: fantasy;
+	color: #00000;
+	text-align: center;
+}
+.contact hr {
+	width: 200px;
+	background-color: #4d004d
+}
+.form {
+	width: 500px;
+	height: 500px;
+}
+.form input {
+	width:200px;
+	height: 30px;
+	margin-top: 10px;
+	text-indent: 10px;
+	border: 2px solid violet;
+}
+.form textarea {
+	width: 200px;
+	height: 70px;
+	margin-top: 10px;
+	font-family: fantasy;
+	text-indent: 10px;
+	border: 2px solid violet;
+}
+.form button {
+	width: 100px;
+	height: 40px;
+	margin-top: 10px;
+	background-color: violet;
+	border: none;
+	border-radius: 1px;
+	cursor: pointer;
+	font-weight: bold;
+}
+.contact img {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 300px;
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
